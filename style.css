@@ -1,0 +1,22 @@
+#container {
+    border: 1px dashed red;
+    height: 500px;
+    width: 500px;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+.pixel{
+  border: none;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    opacity: .1;
+    display: inline-block;
+    font-size: 0;
+    float: left;
+}
